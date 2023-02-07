@@ -40,16 +40,16 @@ When a user clicks on a city in the search history they are again presented with
 ## Usage
 Application appearance:
 
-![alt text](assets/images/Screenshot_1.png)
+![alt text](assets/images/Screenshot.png)
 
 
 Screen
 The following animation demonstrates the application funcitonality:
 
-![](assets/images/daily_planner.gif)
+![](assets/images/Weather_Dashboard.gif)
 
 Link:
-https://drive.google.com/file/d/1lhbpqDqb7sP53oKgl3IByN_n4u99def8/preview
+https://drive.google.com/file/d/1XiXKRQzEkkFoK0H10xZKgpsxX48Helhe/preview
 
 
 ## Contact Details
